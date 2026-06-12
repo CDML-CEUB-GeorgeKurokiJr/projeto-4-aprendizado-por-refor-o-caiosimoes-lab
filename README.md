@@ -1,8 +1,7 @@
 # DCGAN de Alta Performance — Geração de Rostos com CelebA
+**Caio Simões dos Santos**
 
 > **Projeto 4 — Deep Learning (DCGAN + VAE)** · Geração de rostos humanos que não existem, com avaliação quantitativa rigorosa.
-
-**Aluno: Caio Simões dos Santos**
 
 ![Evolução do treinamento](assets/evolucao_treino.gif)
 
