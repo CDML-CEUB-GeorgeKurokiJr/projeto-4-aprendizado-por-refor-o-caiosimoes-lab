@@ -1,0 +1,12 @@
+# Checkpoints pesados (Drive/local) — só os pesos finais do EMA vão em assets/
+checkpoints/
+*.pt
+!assets/generator_ema_final.pt
+
+# Dados (202k imagens — nunca commitar)
+data/
+*.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/

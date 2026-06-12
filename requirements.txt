@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+torchmetrics[image]>=1.0
+torch-fidelity
+kagglehub
+imageio
+matplotlib
+numpy
+Pillow
